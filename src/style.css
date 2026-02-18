@@ -1,1 +1,57 @@
 @import "tailwindcss";
+
+#div1 {
+  height: 65px;
+}
+#div1.active {
+  height: 160px;
+  border: 1px solid #6366f14d;
+}
+
+
+#div2 {
+  height: 65px;
+}
+#div2.active {
+  height: 160px;
+  border: 1px solid #6366f14d;
+}
+#div3 {
+  height: 65px;
+}
+#div3.active {
+  height: 160px;
+  border: 1px solid #6366f14d;
+}
+
+#div4 {
+  height: 65px;
+}
+#div4.active {
+  height: 160px;
+  border: 1px solid #6366f14d;
+}
+
+#div5 {
+  height: 65px;
+}
+#div5.active {
+  height: 160px;
+  border: 1px solid #6366f14d;
+}
+
+#div6 {
+  height: 65px;
+}
+#div6.active {
+  height: 160px;
+  border: 1px solid #6366f14d;
+}
+
+#div7 {
+  height: 65px;
+}
+#div7.active {
+  height: 160px;
+  border: 1px solid #6366f14d;
+}
